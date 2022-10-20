@@ -78,6 +78,7 @@ main {
 }
 .step-box {
   width: 90%;
+  margin: 20px;
   margin-right: 5%;
   margin-left: 5%;
   margin-bttom: 50px;
